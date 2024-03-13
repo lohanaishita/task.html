@@ -1,0 +1,14 @@
+.section-one {
+  background-color: rgba(0, 255, 255, 0.842);
+  margin: auto;
+  border: 200px;
+  width: 900px;
+  padding: 10px;
+}
+.section-two {
+  background-color: orange;
+  margin: auto;
+  border: 200px;
+  width: 900px;
+  padding: 10px;
+}
